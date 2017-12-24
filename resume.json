@@ -18,7 +18,7 @@
     "work": [
         {
             "company": "GoodCourage",
-            "position": "Back-end Softwate Enginerr",
+            "position": "Back-end Softwate Engineer",
             "website": "cell.wine",
             "startDate": "2017-02-01"
         },
@@ -31,8 +31,8 @@
         {
             "company": "Meirgen",
             "position": "Hardware Engineer",
-            "startDate": "2015-12-01",
-            "endDate": "2014-11-01"
+            "startDate": "2014-11-01",
+            "endDate": "2015-12-01"
         }
     ],
     "education": [
