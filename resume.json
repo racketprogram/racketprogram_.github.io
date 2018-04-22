@@ -1,98 +1,95 @@
 {
-    "basics": {
-        "name": "Jimmy Huang",
-        "label": "Software Engineer",
-        "picture": "https://scontent.ftpe7-4.fna.fbcdn.net/v/t31.0-8/22553008_246558762537454_7239897965918117885_o.png?oh=392820e7e1afd738b80c316c41cb9b03&oe=5ACFBF90",
-        "email": "racketprogram@gmail.com",
-        "website": "https://racketprogram.github.io/",
-        "location": {
-            "city": "Taipei",
-            "countryCode": "ROC",
-            "region": "Taiwan"
-        },
-        "profiles": [{
-          "network": "BrowserCast",
-          "url": "https://chrome.google.com/webstore/detail/browsercast/pieoblklnkicbidenoodmehmcbkopkkp"
-        }]
+  "basics": {
+    "name": "Jimmy Huang",
+    "label": "Software Engineer",
+    "picture": "./icon.png",
+    "email": "racketprogram@gmail.com",
+    "location": {
+      "city": "Taipei",
+      "countryCode": "TW",
+      "region": "Taiwan"
     },
-    "work": [
-        {
-            "company": "GoodCourage",
-            "position": "Back-end Softwate Engineer",
-            "website": "cell.wine",
-            "startDate": "2017-02-01"
-        },
-        {
-            "company": "Tera-asper",
-            "position": "Softwate Engineer",
-            "startDate": "2016-05-01",
-            "endDate": "2016-12-01"
-        },
-        {
-            "company": "Meirgen",
-            "position": "Hardware Engineer",
-            "startDate": "2014-11-01",
-            "endDate": "2015-12-01"
-        }
-    ],
-    "education": [
-        {
-            "institution": "National Cheng Kung University",
-            "area": "Institute of Microelectronics",
-            "studyType": "Master",
-            "startDate": "2011-09-01",
-            "endDate": "2013-08-01"
-        },
-        {
-            "institution": "National Kaohsiung University of Applied Sciences",
-            "area": "Electrical Engineering",
-            "studyType": "Bachelor",
-            "startDate": "2007-09-01",
-            "endDate": "2011-09-01"
-        }
-    ],
-    "publications": [
-        {
-            "name": "Wide-Locking-Range Multi-Phase-Outputs Regenerative Frequency Dividers Using Even-Harmonic Mixers and CML Loop Dividers",
-            "publisher": "IEEE Transactions on Microwave Theory and Techniques",
-            "releaseDate": "2014-12-01",
-            "website": "http://ieeexplore.ieee.org/document/6933957/",
-            "summary": "This paper presents a divide-by-4 (D4) and divide-by-8 (D8) regenerative frequency dividers (RFDs) with the quadrature and the octet outputs"
-        }
-    ],
-    "skills": [
-        {
-            "name": "Back-end Development",
-            "level": "senior",
-            "keywords": [
-                "Node.js",
-                "Koa",
-                "Express",
-                "Socket.io",
-                "Sequelize",
-                "Mongoose",
-                "PHP",
-                "Laravel",
-                "Java",
-                "Vert.x",
-                "MySQL",
-                "Mongodb",
-                "ElasticSearch",
-                "Firebase",
-                "Firebase Cloud Messaging",
-                "Elastic Service Container (EC2)",
-                "Google Cloud Platform (GCP)",
-                "Docker",
-                "Shell Script"
-            ]
-        },
-        {
-            "name": "Web Front-end Development",
-            "keywords": ["HTML", "CSS", "Javascript", "React", "Redux", "Vue", "Vuex", "RxJS"]
-        },
-        {
-            "name": "Web Crawler development",
-            "keywords": ["HTTP", "HTML", "TOR", "Puppeteer", "Nightmare", "JQuery"]
-        }
-    ]
+    "profiles": [{}]
+  },
+  "work": [
+    {
+      "company": "Tixguru",
+      "position": "Full-stack Software Engineer",
+      "website": "tixguru.co",
+      "startDate": "2018-04-01"
+    },
+    {
+      "company": "CellWine",
+      "position": "Back-end Software Engineer",
+      "website": "cell.wine",
+      "startDate": "2017-02-01",
+      "endDate": "2018-04-01"
+    },
+    {
+      "company": "Tera-asper",
+      "position": "Front-end Softwate Engineer",
+      "startDate": "2016-05-01",
+      "endDate": "2016-12-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "National Cheng Kung University",
+      "area": "Institute of Microelectronics",
+      "studyType": "Master",
+      "startDate": "2011-09-01",
+      "endDate": "2013-08-01"
+    },
+    {
+      "institution": "National Kaohsiung University of Applied Sciences",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2007-09-01",
+      "endDate": "2011-09-01"
+    }
+  ],
+  "publications": [
+    {
+      "name":
+        "Wide-Locking-Range Multi-Phase-Outputs Regenerative Frequency Dividers Using Even-Harmonic Mixers and CML Loop Dividers",
+      "publisher": "IEEE Transactions on Microwave Theory and Techniques",
+      "releaseDate": "2014-12-01",
+      "website": "http://ieeexplore.ieee.org/document/6933957/",
+      "summary":
+        "This paper presents a divide-by-4 (D4) and divide-by-8 (D8) regenerative frequency dividers (RFDs) with the quadrature and the octet outputs"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Back-end Development",
+      "level": "senior",
+      "keywords": [
+        "Node.js",
+        "Koa",
+        "Express",
+        "Socket.io",
+        "Sequelize",
+        "Mongoose",
+        "PHP",
+        "Laravel",
+        "MySQL",
+        "Mongodb",
+        "ElasticSearch",
+        "Firebase realtime database",
+        "Firebase Cloud Messaging",
+        "Elastic Service Container (EC2)",
+        "Google Cloud Platform (GCP)",
+        "Docker",
+        "Shell Script"
+      ]
+    },
+    {
+      "name": "Web Front-end Development",
+      "keywords": ["HTML", "CSS", "Javascript", "React", "Redux", "Vue", "webpack"]
+    },
+    {
+      "name": "Web Crawler development",
+      "keywords": ["TOR", "Puppeteer", "Nightmare", "JQuery"]
+    }
+  ]
 }
