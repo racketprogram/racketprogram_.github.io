@@ -15,13 +15,13 @@
     {
       "company": "Tixguru",
       "position": "Full-stack Software Engineer",
-      "website": "tixguru.co",
+      "website": "https://tixguru.co",
       "startDate": "2018-04-01"
     },
     {
       "company": "CellWine",
       "position": "Back-end Software Engineer",
-      "website": "cell.wine",
+      "website": "http://cell.wine",
       "startDate": "2017-02-01",
       "endDate": "2018-04-01"
     },

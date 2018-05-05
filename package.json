@@ -6,10 +6,13 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "build2": "hackmyresume BUILD resume.json TO index.html -t node_modules/jsonresume-theme-classy"
+    "1": "hackmyresume BUILD resume.json TO index.html -t node_modules/jsonresume-theme-classy",
+    "2": "hackmyresume BUILD resume.json TO index.html -t node_modules/jsonresume-theme-elegant",
+    "3": "hackmyresume BUILD resume.json TO index.html -t node_modules/jsonresume-theme-genocation"
   },
   "dependencies": {
     "hackmyresume": "1.8.0",
-    "jsonresume-theme-classy": "^1.0.9"
+    "jsonresume-theme-classy": "^1.0.9",
+    "jsonresume-theme-genocation": "^0.1.0"
   }
 }
