@@ -9,7 +9,9 @@
       "countryCode": "TW",
       "region": "Taiwan"
     },
-    "profiles": [{}]
+    "profiles": [
+      {}
+    ]
   },
   "work": [
     {
@@ -50,13 +52,11 @@
   ],
   "publications": [
     {
-      "name":
-        "Wide-Locking-Range Multi-Phase-Outputs Regenerative Frequency Dividers Using Even-Harmonic Mixers and CML Loop Dividers",
+      "name": "Wide-Locking-Range Multi-Phase-Outputs Regenerative Frequency Dividers Using Even-Harmonic Mixers and CML Loop Dividers",
       "publisher": "IEEE Transactions on Microwave Theory and Techniques",
       "releaseDate": "2014-12-01",
       "website": "http://ieeexplore.ieee.org/document/6933957/",
-      "summary":
-        "This paper presents a divide-by-4 (D4) and divide-by-8 (D8) regenerative frequency dividers (RFDs) with the quadrature and the octet outputs"
+      "summary": "This paper presents a divide-by-4 (D4) and divide-by-8 (D8) regenerative frequency dividers (RFDs) with the quadrature and the octet outputs"
     }
   ],
   "skills": [
@@ -64,32 +64,62 @@
       "name": "Back-end Development",
       "level": "senior",
       "keywords": [
+        "RESTful api",
+        "Golang",
         "Node.js",
-        "Koa",
-        "Express",
-        "Socket.io",
-        "Sequelize",
-        "Mongoose",
         "PHP",
-        "Laravel",
+        "Websocket",
+        "Firebase Cloud Messaging"
+      ]
+    },
+    {
+      "name": "Front-end Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "Vue",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Database",
+      "keywords": [
         "MySQL",
         "Mongodb",
-        "ElasticSearch",
-        "Firebase realtime database",
-        "Firebase Cloud Messaging",
-        "Elastic Service Container (EC2)",
+        "Firebase Realtime Database",
+        "ElasticSearch"
+      ]
+    },
+    {
+      "name": "Operation",
+      "keywords": [
+        "Elastic Compute Cloud (EC2)",
         "Google Cloud Platform (GCP)",
         "Docker",
+        "Kubernetes",
         "Shell Script"
       ]
     },
     {
-      "name": "Web Front-end Development",
-      "keywords": ["HTML", "CSS", "Javascript", "React", "Redux", "Vue", "webpack"]
+      "name": "Web Development",
+      "level": "senior",
+      "keywords": [
+        "Gin",
+        "Koa",
+        "Express",
+        "Laravel"
+      ]
     },
     {
       "name": "Web Crawler development",
-      "keywords": ["TOR", "Puppeteer", "Nightmare", "JQuery"]
+      "keywords": [
+        "TOR",
+        "Puppeteer",
+        "Nightmare",
+        "JQuery"
+      ]
     }
   ]
 }
